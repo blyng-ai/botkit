@@ -22,7 +22,7 @@
     ],
     "linebreak-style": [
       "error",
-      "unix"
+      "windows"
     ],
     "no-unused-vars": [
       "error"
